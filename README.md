@@ -14,14 +14,14 @@ touchy可以在一个普通网页上启用几个小功能，便于你在投影�
 
 ## 太好了，我要把它弄到我的网页里
 
-引用俺就行：`<script src="https://raw.github.com/layerssss/touchy/master/touchy.js"></script>`
+引用俺就行：`<script src="http://rawgithub.com/layerssss/touchy/master/touchy.js"></script>`
 
 ## 我想弄个书签，打开别人的网页时用
 
-把我作为书签：<a href="javascript:var script;document.body.appendChild(script=document.createElement('script'));script.setAttribute('src','https://raw.github.com/layerssss/touchy/master/touchy.js')">启用touchy!</a>
+把我作为书签：<a href="javascript:var script;document.body.appendChild(script=document.createElement('script'));script.setAttribute('src','http://rawgithub.com/layerssss/touchy/master/touchy.js')">启用touchy!</a>
 
 如果以上链接被禁用，就手动添加书签吧：
 
 ```
-javascript:var script;document.body.appendChild(script=document.createElement('script'));script.setAttribute('src','https://raw.github.com/layerssss/touchy/master/touchy.js')
+javascript:var script;document.body.appendChild(script=document.createElement('script'));script.setAttribute('src','http://rawgithub.com/layerssss/touchy/master/touchy.js')
 ```
