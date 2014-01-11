@@ -43,7 +43,7 @@
       return;
     }
     window.touchyLoaded = true;
-    $.getScript('//rawgithub.com/EightMedia/hammer.js/1.0.6/hammer.min.js', function(){
+    $.getScript('//rawgithub.com/EightMedia/hammer.js/12bf2cf914c25aee3f6bb1cd868d4002a66f3e1d/dist/hammer.min.js', function(){
       $('p,h1,h2,h3,h4,h5,li,table,pre').each(function(i, e){
         Hammer(e, {
           drag_lock_to_axis: true
