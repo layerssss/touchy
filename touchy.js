@@ -43,7 +43,7 @@
       return;
     }
     window.touchyLoaded = true;
-    $.getScript('http://eightmedia.github.io/hammer.js/dist/hammer.js', function(){
+    $.getScript('//rawgithub.com/EightMedia/hammer.js/1.0.6/hammer.min.js', function(){
       $('p,h1,h2,h3,h4,h5,li,table,pre').each(function(i, e){
         Hammer(e, {
           drag_lock_to_axis: true
