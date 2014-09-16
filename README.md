@@ -13,7 +13,7 @@ touchy可以在一个普通网页上启用几个小功能，便于你在投影�
 
 ## 让咱看看效果
 
-在电脑或者手机上看看：[传说中的效果](http://micy.in/posts/hello-touchy.html)
+在电脑或者手机上看看：[传说中的效果](http://micy.in/posts/2013-05-28-hello-touchy.html)
 
 ## 神马？看不到效果？！！
 
