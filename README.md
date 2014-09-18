@@ -1,7 +1,5 @@
 # Hello, touchy!
 
-<script src="touchy.js"></script>
-
 touchy可以在一个普通网页上启用几个小功能，便于你在投影仪上演示。
 
 ## 小功能目前包括..
@@ -15,9 +13,7 @@ touchy可以在一个普通网页上启用几个小功能，便于你在投影�
 
 在电脑或者手机上看看：[传说中的效果](http://micy.in/posts/2013-05-28-hello-touchy.html)
 
-## 神马？看不到效果？！！
-
-用手指或者鼠标拖才有效果啊！别愣着，麻利的。
+![touchy.png](https://cloud.githubusercontent.com/assets/1559832/4321542/09c3d1b4-3f41-11e4-86dc-7eacd977561e.png)
 
 ## 太好了，我要把它弄到我的网页里
 
